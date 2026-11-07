@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+httpx
+aiohttp
+requests
+urllib3
+pycryptodome
+protobuf
+protobuf-decoder
+PyJWT
+psutil
+pytz
+python-cfonts
+colorama
